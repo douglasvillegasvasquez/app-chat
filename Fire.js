@@ -9,13 +9,13 @@ class Fire {
     init =() => {
         if (!firebase.apps.length) {
             firebase.initializeApp({
-                apiKey: "AIzaSyDwebhi4XSvCHJPvsPPyOEfUqP7K-c8oeI",
-                authDomain: "infocitypi.firebaseapp.com",
-                databaseURL: "https://infocitypi.firebaseio.com",
-                projectId: "infocitypi",
-                storageBucket: "infocitypi.appspot.com",
-                messagingSenderId: "642916285496",
-                appId: "1:642916285496:web:d9b36e632a1d3b6f4f7acd"
+                apiKey: "removido",
+                authDomain: "removido",
+                databaseURL: "removido",
+                projectId: "removido",
+                storageBucket: "removido",
+                messagingSenderId: "removido",
+                appId: "removido"
             });
         }
     };
